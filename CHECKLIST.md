@@ -39,7 +39,7 @@ _____ DOUBLE KUDOS: Retains capitalization
 
 YES 4 pts: Programs compile without errors or warnings 
 
-PART 2 pts: Executes fully & consistently without crashing (exceptions/freezing)
+YES 2 pts: Executes fully & consistently without crashing (exceptions/freezing)
 
 YES 2 pt: Complies with style guidelines:
 
