@@ -37,6 +37,7 @@ public class CaesarCipherTests {
         classUnderTest = new CaesarCipher(3);
         assertEquals("qefp fpk'q sbov pbzobq.", classUnderTest.encode("this isn't very secret."));
     }
+    
 
     @Test
     public void decodeTest(){
